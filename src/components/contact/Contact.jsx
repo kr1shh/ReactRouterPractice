@@ -1,6 +1,10 @@
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <div className="flex items-center justify-center w-full h-[85vh]">
+      <h1 className="font-sans font-black text-[100px]">
+        Contact
+      </h1>
+    </div>
   )
 }
 
